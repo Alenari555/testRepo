@@ -1,2 +1,4 @@
 new text
-some more text
+text
+
+fix2 changes
